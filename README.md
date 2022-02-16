@@ -14,4 +14,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 ## Imagem do Projeto
 
-![URNA](https://user-images.githubusercontent.com/88353028/154181817-fc797b90-186c-4c16-9a85-02d584725e53.png)
+![URNA](https://user-images.githubusercontent.com/88353028/154183113-e7c907b1-7baa-4853-b508-a338e3383975.png)
