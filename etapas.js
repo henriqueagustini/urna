@@ -24,7 +24,7 @@ let etapas = [
     },
     {
         titulo: "PREFEITO",
-        numeros: "2",
+        numeros: 2,
         candidatos: [
             {
                 numero: "10",

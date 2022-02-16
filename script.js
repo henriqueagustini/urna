@@ -96,6 +96,7 @@ function corrige() {
     comecarEtapa();
 }
 function confirma() {
+    
     let etapa = etapas[etapaAtual];
 
     let votoConfirmado = false;
